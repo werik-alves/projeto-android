@@ -1,4 +1,3 @@
 # projeto-android
 projeto-android
-
-testando readme
+ <a href="https://inkscape.org/pt/" target="_blank" class="externo"> link do projeto </a>

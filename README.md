@@ -1,3 +1,3 @@
 # projeto-android
 projeto-android
- <a href="https://inkscape.org/pt/" target="_blank" class="externo"> link do projeto </a>
+ <a href="https://werik-alves.github.io/projeto-android/" target="_blank" class="externo"> link do projeto </a>
